@@ -21,7 +21,7 @@ const config = {
   },
   "brokerage": {
     "name": "Real Broker LTD",
-    "logoUrl": "",
+    "logoUrl": "https://theskygroup.ca/wp-content/uploads/2022/09/Brokeredby_Logo_White__Ontario_Small.png",
     "address": "218 Brant Avenue, Brantford, ON N3T 3H9"
   },
   "openHouse": {
