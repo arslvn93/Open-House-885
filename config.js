@@ -9,10 +9,10 @@ const config = {
   "realtor": {
     "fullName": "Driscoll-Peca Team",
     "title": "REALTOR®",
-    "phone": "",
-    "email": "ryan@driscollpeca.com",
+    "phone": "(613) 816-326",
+    "email": "amber@driscollpeca.com",
     "bio": "",
-    "photoUrl": "",
+    "photoUrl": "https://iss-cdn.myrealpage.com/-fV1vYUaNYzE5qLFJuB97bZ7udPQxAoy4L_Ung1C5Ko/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9xdWljay11cGxvYWRzL0RKLnBuZz90PTE3NDUzMzU2OTgyMDQ?t=1745335698204",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/ae.parks",
