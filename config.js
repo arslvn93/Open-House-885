@@ -12,7 +12,7 @@ const config = {
     "phone": "(613) 816-326",
     "email": "amber@driscollpeca.com",
     "bio": "",
-    "photoUrl": "https://iss-cdn.myrealpage.com/-fV1vYUaNYzE5qLFJuB97bZ7udPQxAoy4L_Ung1C5Ko/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9xdWljay11cGxvYWRzL0RKLnBuZz90PTE3NDUzMzU2OTgyMDQ?t=1745335698204",
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hprYqSfgTupUXUyD_Dgusvt9ldPq2wNCxA&s",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/ae.parks",
