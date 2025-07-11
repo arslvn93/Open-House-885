@@ -33,7 +33,7 @@ const config = {
       },
       {
         "icon": "fas fa-map",
-        "text": "HD Photos"
+        "text": "High-Resolution Photo Album"
       },
       {
         "icon": "fas fa-ruler-combined",
@@ -41,7 +41,7 @@ const config = {
       },
       {
         "icon": "fas fa-camera-retro",
-        "text": "Virtual Tour"
+        "text": "3D Matterport Virtual Tour"
       },
       {
         "icon": "fas fa-video",
