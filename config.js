@@ -29,35 +29,31 @@ const config = {
     "bundleItems": [
       {
         "icon": "fas fa-link",
-        "text": "Property Listing URL: https://driscollpeca.com/mylistings.html/listing.x12272690-1768-coleman-crescent-north-dundas-k0e-1s0.106314593"
+        "text": "Property Listing URL"
       },
       {
         "icon": "fas fa-map",
-        "text": "Branded Media: https://sites.ground2airmedia.com/sites/1768-coleman-crescent-mountain-on-k0e-1s0-17491054/branded"
+        "text": "HD Photos"
       },
       {
         "icon": "fas fa-ruler-combined",
-        "text": "Floor Plan: https://sites.ground2airmedia.com/sites/1768-coleman-crescent-mountain-on-k0e-1s0-17491054/branded#&gid=1&pid=2"
+        "text": "Floor Plan"
       },
       {
         "icon": "fas fa-video",
-        "text": "Virtual Tour: https://youtube.com/shorts/GIhhtUV7luo"
+        "text": "Virtual Tour"
       },
       {
         "icon": "fas fa-bed",
-        "text": "Beds: 3+1"
+        "text": "Neighbourhood Guide"
       },
       {
         "icon": "fas fa-bath",
-        "text": "Baths: 3"
+        "text": "On-Market Comparables"
       },
       {
         "icon": "fas fa-dollar-sign",
-        "text": "Listing Price: $849,900"
-      },
-      {
-        "icon": "fas fa-home",
-        "text": "Home Type: Freehold Single Family"
+        "text": "Recent Neighbourhood Sales"
       }
     ]
   },
