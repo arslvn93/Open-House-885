@@ -7,12 +7,12 @@ const config = {
     "backgroundImageUrl": "https://api.typeform.com/responses/files/0d2dd2402e79912bbff83a5076d7c9374f697ff5a50d34eb909bf775f030f986/8_web_or_mls_DSC00804.jpg"
   },
   "realtor": {
-    "fullName": "Driscoll-Peca Team",
+    "fullName": "Ryan Hodgins",
     "title": "REALTOR®",
-    "phone": "(613) 816-326",
-    "email": "amber@driscollpeca.com",
-    "bio": "",
-    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hprYqSfgTupUXUyD_Dgusvt9ldPq2wNCxA&s",
+    "phone": "613-706-6822",
+    "email": "ryan@driscollpeca.com",
+    "bio": "The Driscoll Peca Real Estate Team\n\nServicing Ottawa and the surrounding areas.\n\nWith years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers.\n\nWith deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
+    "photoUrl": "https://api.typeform.com/responses/files/0d2dd2402e79912bbff83a5076d7c9374f697ff5a50d34eb909bf775f030f986/8_web_or_mls_DSC00804.jpg",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/ae.parks",
@@ -20,9 +20,9 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "Real Broker LTD",
-    "logoUrl": "https://theskygroup.ca/wp-content/uploads/2022/09/Brokeredby_Logo_White__Ontario_Small.png",
-    "address": "218 Brant Avenue, Brantford, ON N3T 3H9"
+    "name": "Real Broker Ontario Ltd.",
+    "logoUrl": "https://iss-cdn.myrealpage.com/HolUh2wjU2-5d0Jbck-onFy0uCj2ybSo2PP39FFatrE/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9xdWljay11cGxvYWRzL1JFQUwgLSBCbGFjay5wbmc_dD0xNzQ1MzM2Mjg2Mzky?t=1745336286392",
+    "address": "8 Clothier Street East Kemptville, ON, K0G 1J0"
   },
   "openHouse": {
     "eventDate": "2025-07-13",
@@ -62,7 +62,7 @@ const config = {
     ]
   },
   "meta": {
-    "pageTitlePrefix": "🏡 Driscoll-Peca Team Open House",
+    "pageTitlePrefix": "🏡  Open House",
     "navBrandLogoText": "OPEN HOUSE",
     "privacyPolicyLink": "https://driscollpeca.com/privacy.html"
   },
