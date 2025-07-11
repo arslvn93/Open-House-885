@@ -12,7 +12,7 @@ const config = {
     "phone": "613-706-6822",
     "email": "ryan@driscollpeca.com",
     "bio": "The Driscoll Peca Real Estate Team\n\nServicing Ottawa and the surrounding areas.\n\nWith years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers.\n\nWith deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
-    "photoUrl": "https://api.typeform.com/responses/files/0d2dd2402e79912bbff83a5076d7c9374f697ff5a50d34eb909bf775f030f986/8_web_or_mls_DSC00804.jpg",
+    "photoUrl": "https://iss-cdn.myrealpage.com/HbHVB7I_poNA7H7OXWGkiQAzSdxB_DxZmPyKGNFoB9I/rs:auto:1600:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS80LnBuZz90PTE3NDY2NDI0MzUxOTk?t=1746642435199",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/ae.parks",
