@@ -40,19 +40,15 @@ const config = {
         "text": "Floor Plan"
       },
       {
-        "icon": "fas fa-video",
+        "icon": "fas fa-camera-retro",
         "text": "Virtual Tour"
       },
       {
-        "icon": "fas fa-bed",
-        "text": "Neighbourhood Guide"
+        "icon": "fas fa-video",
+        "text": "Video Tour"
       },
       {
-        "icon": "fas fa-bath",
-        "text": "On-Market Comparables"
-      },
-      {
-        "icon": "fas fa-dollar-sign",
+        "icon": "fas fa-map-location-dot",
         "text": "Recent Neighbourhood Sales"
       }
     ]
