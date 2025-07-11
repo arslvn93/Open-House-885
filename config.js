@@ -21,7 +21,7 @@ const config = {
   },
   "brokerage": {
     "name": "Real Broker Ontario Ltd.",
-    "logoUrl": "https://iss-cdn.myrealpage.com/HolUh2wjU2-5d0Jbck-onFy0uCj2ybSo2PP39FFatrE/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9xdWljay11cGxvYWRzL1JFQUwgLSBCbGFjay5wbmc_dD0xNzQ1MzM2Mjg2Mzky?t=1745336286392",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/660c816949432459459a703e/6b2d1314-1053-472d-96c6-da85f2437592/real+logo.png",
     "address": "8 Clothier Street East Kemptville, ON, K0G 1J0"
   },
   "openHouse": {
