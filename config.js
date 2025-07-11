@@ -10,7 +10,7 @@ const config = {
     "fullName": "Ryan Hodgins",
     "title": "REALTOR®",
     "phone": "613-706-6822",
-    "email": "arslan@salesgenius.ca",
+    "email": "ryan@driscollpeca.com",
     "bio": "Ryan is part of The Driscoll Peca Real Estate Team. With years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers. With deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
     "photoUrl": "https://iss-cdn.myrealpage.com/HbHVB7I_poNA7H7OXWGkiQAzSdxB_DxZmPyKGNFoB9I/rs:auto:1600:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS80LnBuZz90PTE3NDY2NDI0MzUxOTk?t=1746642435199",
     "social": {
