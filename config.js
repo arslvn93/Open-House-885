@@ -146,7 +146,7 @@ const config = {
   "deploymentInfo": {
     "repoName": "Open-House-885",
     "repoUrl": "https://github.com/arslvn93/Open-House-885",
-    "tag": "Open House 1768 Coleman Crescent",
+    "tag": "1768 Coleman Crescent Open House ",
     "netlifyUrl": "https://services.leadconnectorhq.com/hooks/CVLYBNRm65xkdYXWeFCq/webhook-trigger/Bz5U2LrvSTZglC5ZrM8D",
     "siteId": "3b632ba3-c7c8-4ef4-9dc6-57e0ec68002e"
   }
